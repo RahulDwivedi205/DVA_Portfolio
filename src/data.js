@@ -15,7 +15,7 @@ const projects = [
     image: `${base}Egypt-RealEstateAnalyzer.png`,
     tags: ["Tableau", "Python", "Data Analytics"],
     github: "https://github.com/RahulDwivedi205/SectionE_G-5_Egypt-RealEstateAnalyzer",
-    live: "https://public.tableau.com/views/CarSalesDashboard_17773691235740/CarSalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+    live: "https://public.tableau.com/app/profile/rahul.dwivedi6526/viz/DVACapstoneDashboard/Welcome"
   },
   {
     name: "Cardiovascular Risk Analysis Dashboard",
