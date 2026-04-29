@@ -121,6 +121,17 @@ a:hover{
   line-height:1.5;
 }
 
+.sidebar-btn-group{
+  display:flex;
+  gap:8px;
+  margin-bottom:16px;
+}
+
+.sidebar-btn-group .sidebar-follow-btn{
+  flex:1;
+  margin-bottom:0;
+}
+
 .sidebar-follow-btn{
   display:block;
   text-align:center;

@@ -12,14 +12,24 @@ export default function Sidebar() {
         Data analytics enthusiast with strong skills in Python, Excel, Tableau, React, Node.js, and SQL, focused on extracting insights, building dashboards, and solving real-world problems using data and full-stack development.
       </p>
 
-      <a
-        href="https://github.com/RahulDwivedi205"
-        target="_blank"
-        rel="noreferrer"
-        className="sidebar-follow-btn"
-      >
-        View GitHub
-      </a>
+      <div className="sidebar-btn-group">
+        <a
+          href="https://github.com/RahulDwivedi205"
+          target="_blank"
+          rel="noreferrer"
+          className="sidebar-follow-btn"
+        >
+          View GitHub
+        </a>
+        <a
+          href="https://drive.google.com/file/d/18oXVNh7EIsfUxnDe1C9QAGw0-m2CBf6a/view?usp=sharing"
+          target="_blank"
+          rel="noreferrer"
+          className="sidebar-follow-btn"
+        >
+          View Resume
+        </a>
+      </div>
       <div className="sidebar-socials">
         <a
           href="https://github.com/RahulDwivedi205"
